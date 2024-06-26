@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaishnavi Dhare
-- 👀 I’m interested in Data analytics and Java .
+- 👀 I’m interested in Machine Learning and Java .
 - 🌱 I’m currently learning Mern Stack 
 - 📫 How to reach me dharevaishnavi@gmail.com
 
