@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vaishnavi-dhare-145810249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-dhare-145810249" height="30" width="40" /></a>
 <a href="https://instagram.com/vaish.u_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaish.u_01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vaishnavidhare1813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaishnavidhare1813" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@vaishnavidhare1813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaishnavidhare1813" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dharevaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharevaishnavi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vaishnavi2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnavi2405" height="30" width="40" /></a>
 </p>
