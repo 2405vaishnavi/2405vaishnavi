@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Dhare</h1>
-<h3 align="center">Enthusiastic about learning new skills 📚 and ready to collaborate 🤝 to help others. from India</h3>
+<h3 align="center">Enthusiastic about learning new skills 📚 and ready to collaborate 🤝 to help others.I am from India</h3>
 <img align="right" alt="" width="300" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2405vaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="2405vaishnavi" /> </p>
 
